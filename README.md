@@ -15,8 +15,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # 1-Norm of a Matrix
 
 Program to find 1-norm of a matrix.
-Developed by:Ashwath M
-RegisterNumber:212223230023 
+Developed by:Karsha varthan R.R
+RegisterNumber:23003628
 import numpy as np
 value=eval(input())
 arr=np.array(value)
